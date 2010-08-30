@@ -1,3 +1,4 @@
+(from http://github.com/chneukirchen/styleguide/blob/master/RUBY-STYLE)
 = Christian Neukirchen's Ruby Style Guide
 
 You may not like all rules presented here, but they work very well for
